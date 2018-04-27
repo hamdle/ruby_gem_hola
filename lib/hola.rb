@@ -1,5 +1,5 @@
 class Hola
 	def self.hi
-		put "Hello world!"
+		puts "Hello world!"
 	end
 end
